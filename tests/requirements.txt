@@ -1,0 +1,5 @@
+# Core packages
+pytest==7.4.0           # For unit testing
+pydantic==2.3.0         # Data validation (optional but useful)
+rich==13.6.0            # For pretty console outputs/logs
+python-dotenv==1.0.1    # To manage environment variables/config (optional)
